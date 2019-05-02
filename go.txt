@@ -1,0 +1,10 @@
+设置环境变量：
+
+1、export GOROOT=$PATH:/path/to/go
+2、export PATH=$PATH:$GORPPT/bin
+3、export GOPATH=/home/user/project/go
+
+
+vs code 调试工具
+
+linux&windows : go get githup.com/derekparker/delve/cmd/div
