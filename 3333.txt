@@ -1,0 +1,9 @@
+
+重新生成KEY
+ssh-keygen -t rsa -C "yunhui0501@163.com"
+查看KEY
+cat ~/.ssh/id_rsa.pub
+
+
+
+aaaaaaa
